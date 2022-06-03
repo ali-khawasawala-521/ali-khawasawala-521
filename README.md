@@ -1,4 +1,4 @@
-<img src="./header.png" alt="header" style="width:100%"/>
+<img src="./github-header.png" alt="header" style="width:100%"/>
 
 ### 💻 Languages:
 ![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white)
