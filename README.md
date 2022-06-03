@@ -65,4 +65,4 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-khawasawala-521&theme=github" alt="Github Stats"/>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ali-khawasawala-521.visitor-badge&left_color=lightseagreen&right_color=lightgreen)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ali-khawasawala-521.visitor-badge&left_color=%2341B883&right_color=%2335495E)
