@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Asgar Khawasawala</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<img src="./header.png" alt="header" style="width:100%"/>
 
 ### 💻 Languages:
 ![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,8 +60,10 @@
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-24CC63?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9424047352)
 
 ### 📊 Github Stats:
-<div align="left">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-khawasawala-521&theme=github" alt="Github Stats"/>
-</div>
+<img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-khawasawala-521&theme=github" alt="Github Stats"/>
+
+<br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ali-khawasawala-521.visitor-badge&left_color=%2341B883&right_color=%2335495E)
+
+<div style="height:4px; width: 100%; background-color:#4078C0;"></div>
