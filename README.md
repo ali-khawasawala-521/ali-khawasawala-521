@@ -7,6 +7,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-A72145?style=for-the-badge&logo=rust&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-222?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🔧 Frameworks and Libraries:
@@ -16,6 +17,7 @@
 ![React.js](https://img.shields.io/badge/React.js-5ED4F3?style=for-the-badge&logo=react&logoColor=232341)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
+![Koa.js](https://img.shields.io/badge/Koa.js-33333D?style=for-the-badge&logo=koa&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6E10EE?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-2A73C5?style=for-the-badge&logo=vuetify&logoColor=white)
@@ -23,8 +25,12 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-F74F1F?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1872CB?style=for-the-badge&logo=quasar&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-0084F7?style=for-the-badge&logo=capacitor&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-8FD3E0?style=for-the-badge&logo=electron&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-08024D?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyGTK](https://img.shields.io/badge/PyGTK-68B33F?style=for-the-badge&logo=gtk&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-1B50EB?style=for-the-badge&logo=anchor&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-520F8E?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 ### ☁️ Databases, Cloud and API:
 ![SQLite](https://img.shields.io/badge/SQLite-053C54?style=for-the-badge&logo=sqlite&logoColor=white)
