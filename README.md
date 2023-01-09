@@ -25,7 +25,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-F74F1F?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1872CB?style=for-the-badge&logo=quasar&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-0084F7?style=for-the-badge&logo=capacitor&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-8FD3E0?style=for-the-badge&logo=electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-1B1C26?style=for-the-badge&logo=electron&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-08024D?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyGTK](https://img.shields.io/badge/PyGTK-68B33F?style=for-the-badge&logo=gtk&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
