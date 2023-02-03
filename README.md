@@ -40,6 +40,7 @@
 ![Airtable](https://img.shields.io/badge/Airtable-F82B60?style=for-the-badge&logo=airtable&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-EE7E0C?style=for-the-badge&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-37A8B5?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-440099?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-E85824?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧩 Version Control:
