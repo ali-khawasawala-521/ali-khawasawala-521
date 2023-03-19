@@ -28,9 +28,12 @@
 ![Electron](https://img.shields.io/badge/Electron-1B1C26?style=for-the-badge&logo=electron&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-08024D?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyGTK](https://img.shields.io/badge/PyGTK-68B33F?style=for-the-badge&logo=gtk&logoColor=white)
+
+### ⛓️ Blockchain and Web3
 ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-1B50EB?style=for-the-badge&logo=anchor&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-520F8E?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-1B50EB?style=for-the-badge&logo=anchor_&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-520F8E?style=for-the-badge&logo=solana&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-C8147F?style=for-the-badge&logo=pinata&logoColor=white)
 
 ### ☁️ Databases, Cloud and API:
 ![SQLite](https://img.shields.io/badge/SQLite-053C54?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,7 +44,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-EE7E0C?style=for-the-badge&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-37A8B5?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-440099?style=for-the-badge&logo=heroku&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
 ![Postman](https://img.shields.io/badge/Postman-E85824?style=for-the-badge&logo=postman&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### 🧩 Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
