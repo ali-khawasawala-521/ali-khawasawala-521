@@ -1,4 +1,4 @@
-<img src="./github-header.png" alt="header" style="width:100%"/>
+<img src="./github-header-2.png" alt="header" style="width:100%"/>
 
 ### 💻 Languages:
 ![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,6 +77,6 @@
 
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ali-khawasawala-521.visitor-badge&left_color=%2341B883&right_color=%2335495E)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ali-khawasawala-521.visitor-badge&left_color=%2341B883&right_color=%2335495E) -->
 
 <div style="height:4px; width: 100%; background-color:#4078C0;"></div>
