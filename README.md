@@ -6,7 +6,6 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-A72145?style=for-the-badge&logo=rust&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-222?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🔧 Frameworks and Libraries:
@@ -28,12 +27,6 @@
 ![Electron](https://img.shields.io/badge/Electron-1B1C26?style=for-the-badge&logo=electron&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-08024D?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyGTK](https://img.shields.io/badge/PyGTK-68B33F?style=for-the-badge&logo=gtk&logoColor=white)
-
-### ⛓️ Blockchain and Web3
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-1B50EB?style=for-the-badge&logo=anchor_&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-520F8E?style=for-the-badge&logo=solana&logoColor=white)
-![Pinata](https://img.shields.io/badge/Pinata-C8147F?style=for-the-badge&logo=pinata&logoColor=white)
 
 ### ☁️ Databases, Cloud and API:
 ![SQLite](https://img.shields.io/badge/SQLite-053C54?style=for-the-badge&logo=sqlite&logoColor=white)
