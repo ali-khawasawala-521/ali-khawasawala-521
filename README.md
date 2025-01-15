@@ -10,7 +10,7 @@
 
 ### 🔧 Frameworks and Libraries:
 ![Vue.js](https://img.shields.io/badge/Vue.js-00C853?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00BF8A?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00BF8A?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Gridsome](https://img.shields.io/badge/Gridsome-00C853?style=for-the-badge&logo=gridsome&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-5ED4F3?style=for-the-badge&logo=react&logoColor=232341)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
@@ -47,6 +47,8 @@
 ### 🧩 Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### ✒️ Design:
 ![Canva](https://img.shields.io/badge/Canva-7929E0?style=for-the-badge&logo=canva&logoColor=white)
@@ -55,10 +57,6 @@
 ![Gimp](https://img.shields.io/badge/Gimp-514D3C?style=for-the-badge&logo=gimp&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1F9CF2?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/Affinity%20Photos-7B4BCD?style=for-the-badge&logo=affinity-photo&logoColor=white)
-
-### 🔌 Prototype:
-![Arduino](https://img.shields.io/badge/Arduino-199FA1?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-F72E32?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### 📌 Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.khawasawala.521@gmail.com)
